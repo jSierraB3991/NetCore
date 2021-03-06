@@ -1,0 +1,13 @@
+﻿<resources>
+  <string name="app_name">Cliente de Authenticaciòn</string>
+  <string name="action_settings"> Configuraciones </string>
+  
+  <string name="edtUserName">Nombre de Usuario</string>
+  <string name="edtUserPassword">Contraseña</string>
+  <string name="btnLogin">Login</string>
+  <string name="btnRegister">Registrarse</string>
+  <string name="txtCreateAccount">Crear Cuenta</string>
+  <string name="msgUserRequired">El nombre de usuario es requerido</string>
+  <string name="msgPassRequired">La contraseña no  puede estar vacia</string>
+  <string name="txtNewAccount">Nueva Cuenta</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="main_url">http://pruebacategorias.somee.com</string>
+  
+    <string name="app_name">ClientAuthentication</string>
+    <string name="action_settings">Settings</string>
+
+
+  <string name="edtUserName">User Name</string>
+  <string name="edtUserPassword">Password</string>
+  <string name="btnLogin">Login</string>
+  <string name="btnRegister">Register</string>
+  <string name="txtCreateAccount">Create Account</string>
+  <string name="msgUserRequired">The user name is required</string>
+  <string name="msgPassRequired">The password not can is empty</string>
+  <string name="txtNewAccount">New Account</string>
+</resources>
